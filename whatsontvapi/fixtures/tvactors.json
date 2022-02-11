@@ -1,0 +1,26 @@
+[
+    {
+        "model": "whatsontvapi.tvactor",
+        "pk": 1,
+        "fields": {
+            "tvshow": 1,
+            "actor": 3
+        }
+    },
+    {
+        "model": "whatsontvapi.tvactor",
+        "pk": 2,
+        "fields": {
+            "tvshow": 2,
+            "actor": 1
+        }
+    },
+    {
+        "model": "whatsontvapi.tvactor",
+        "pk": 3,
+        "fields": {
+            "tvshow": 3,
+            "actor": 2
+        }
+    }
+]

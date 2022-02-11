@@ -1,0 +1,23 @@
+[
+    {
+        "model": "whatsontvapi.actor",
+        "pk": 1,
+        "fields": {
+            "name": "Brad Pitt"
+        }
+    },
+    {
+        "model": "whatsontvapi.actor",
+        "pk": 2,
+        "fields": {
+            "name": "Tom Holland"
+        }
+    },
+    {
+        "model": "whatsontvapi.actor",
+        "pk": 3,
+        "fields": {
+            "name": "Zendaya"
+        }
+    }
+]

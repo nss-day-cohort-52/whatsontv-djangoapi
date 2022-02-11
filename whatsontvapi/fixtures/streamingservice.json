@@ -1,0 +1,23 @@
+[
+    {
+        "model": "whatsontvapi.streamingservice",
+        "pk": 1,
+        "fields": {
+            "name": "Netflix"
+        }
+    },
+    {
+        "model": "whatsontvapi.streamingservice",
+        "pk": 2,
+        "fields": {
+            "name": "Hulu"
+        }
+    },
+    {
+        "model": "whatsontvapi.streamingservice",
+        "pk": 3,
+        "fields": {
+            "name": "HBO Max"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "model": "whatsontvapi.tvshow",
+        "pk": 1,
+        "fields": {
+            "name": "Euphoria",
+            "num_of_seasons": 2,
+            "streaming_service": 3
+
+        }
+    },
+    {
+        "model": "whatsontvapi.tvshow",
+        "pk": 2,
+        "fields": {
+            "name": "The Handmaid's Tale",
+            "num_of_seasons": 4,
+            "streaming_service": 2
+        }
+    },
+    {
+        "model": "whatsontvapi.tvshow",
+        "pk": 3,
+        "fields": {
+            "name": "Cheer",
+            "num_of_seasons": 2,
+            "streaming_service": 1
+        }
+    }
+]
